@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "New Day Medical Store",
-  description: "Manage your medical inventory, sales, and more",
+  title: "Saaj Clothing Store",
+  description: "Clothing Store",
 };
 
 export default function RootLayout({ children }) {
